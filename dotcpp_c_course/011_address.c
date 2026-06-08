@@ -7,7 +7,7 @@ int main()
     for(i=0;i<10;i++)       
     {               
         printf("int Address:0x%x,Value:%d\n",&a[i],a[i]);      
-    }       
+    }       //&表示该变量的地址 
     printf("\n");       
     for(i=0;i<10;i++)       
     {               

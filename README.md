@@ -3,7 +3,7 @@
 ***The repository is divided into two parts:***
 
 1. What I have learnt from NBUT
-2. I learn from dotcpp.com myself
+2. What I have learnt from dotcpp.com myself
 
 That is all.
 

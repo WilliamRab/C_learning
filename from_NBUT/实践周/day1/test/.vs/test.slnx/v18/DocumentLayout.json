@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\Project1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\Project1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\FileName.c",
+              "RelativeDocumentMoniker": "Project1\\FileName.c",
+              "ToolTip": "E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\FileName.c",
+              "RelativeToolTip": "Project1\\FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-25T00:57:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project1.vcxproj",
+              "DocumentMoniker": "E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\Project1.vcxproj",
+              "RelativeDocumentMoniker": "Project1\\Project1.vcxproj",
+              "ToolTip": "E:\\Will c learn\\C_learning\\from_NBUT\\\u5B9E\u8DF5\u5468\\day1\\test\\Project1\\Project1.vcxproj",
+              "RelativeToolTip": "Project1\\Project1.vcxproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2026-06-25T00:57:07.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

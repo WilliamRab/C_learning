@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Will c learn\C_learning\from_NBUT\实践周\day2\五子棋\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Will c learn\C_learning\from_NBUT\实践周\day2\五子棋\源.cpp(121,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Will c learn\C_learning\from_NBUT\实践周\day2\五子棋\源.cpp(122,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  五子棋.vcxproj -> E:\Will c learn\C_learning\from_NBUT\实践周\day2\五子棋\x64\Debug\五子棋.exe

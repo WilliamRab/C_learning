@@ -1,0 +1,8 @@
+﻿  源.cpp
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(60,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(60,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(60,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(123,1): warning C4715: “plx”: 不是所有的控件路径都返回值
+E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\源.cpp(131,1): warning C4715: “ply”: 不是所有的控件路径都返回值
+  Load_And_Shoot.vcxproj -> E:\Will c learn\C_learning\from_NBUT\实践周\day8\Load_And_Shoot\x64\Debug\Load_And_Shoot.exe

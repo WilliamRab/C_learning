@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Will c learn\C_learning\from_NBUT\实践周\day3\推箱子游戏\源.cpp(252,7): warning C4101: “key”: 未引用的局部变量
+E:\Will c learn\C_learning\from_NBUT\实践周\day3\推箱子游戏\源.cpp(62,1): warning C4715: “plx”: 不是所有的控件路径都返回值
+E:\Will c learn\C_learning\from_NBUT\实践周\day3\推箱子游戏\源.cpp(70,1): warning C4715: “ply”: 不是所有的控件路径都返回值
+  推箱子游戏.vcxproj -> E:\Will c learn\C_learning\from_NBUT\实践周\day3\推箱子游戏\x64\Debug\推箱子游戏.exe

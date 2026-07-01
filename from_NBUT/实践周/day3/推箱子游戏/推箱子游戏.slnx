@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="推箱子游戏.vcxproj" Id="da417693-f660-464d-949a-eaaa21c616f2" />
+</Solution>

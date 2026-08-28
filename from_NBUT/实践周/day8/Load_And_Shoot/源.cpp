@@ -433,7 +433,7 @@ void shoot(char key) {//Shoot the bullet and check if it hits the enemy
 	bullet--;
 	int x = plx();
 	int y = ply();
-	if (key == 'i') {//子弹打到边缘消失
+	if (key == 'i') {
 		for (int j = y - 1; j >= 0; ) {
 			if (state[x][j] == 1) {//If it hits the wall, stop shooting
 				if (state[x][j + 1] == 7)		state[x][j + 1] = 0;
